@@ -20,8 +20,8 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: enki42_left
+    shield: armada_left
   - board: nice_nano_v2
-    shield: enki42_right
+    shield: armada_right
   - board: nice_nano_v2
-    shield: enki42_dongle
+    shield: armada_dongle

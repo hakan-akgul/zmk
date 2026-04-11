@@ -1,0 +1,13 @@
+file_format: "1"
+id: armada
+name: The armada 
+type: shield
+url: https://github.com/benvallack/zmk-config-armada
+requires: [pro_micro]
+exposes: [i2c_oled]
+features:
+  - keys
+siblings:
+  - armada_left
+  - armada_right
+  - armada_dongle
